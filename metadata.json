@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ChronoFocus Offline AI",
+  "description": "An offline, AI-powered planner that automates your schedule, manages tasks with dynamic rescheduling, and provides nightly reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
